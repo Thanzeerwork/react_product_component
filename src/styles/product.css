@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: start;
+}
+h1{
+    color: aqua;
+    width: 100%;
+}
+#maindiv {
+  border: 2px solid black;
+  width: 250px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+img{
+   width: 200px;
+   height: 200px;
+   object-fit: contain;
+}
+.red-text{
+    color: red;
+}
