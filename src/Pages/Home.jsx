@@ -1,5 +1,5 @@
 import React from 'react'
-import Product from '../Components/product'
+import Product from '../Components/Product'
 import '../styles/home.css'
 
  
